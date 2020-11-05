@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1603110976 source:/home/krohn/LinguagemC/GLFW_Shaders6/main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<sstream>
+	"opengl_utils.cpp"
+	"vendor/stb_image.h"
+
+1579473811 /home/krohn/glfw-3.3.2/include/GLFW/glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1603076756 /home/krohn/LinguagemC/GLFW_Shaders6/opengl_utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1603076756 source:/home/krohn/LinguagemC/GLFW_Shaders6/opengl_utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1603045863 /home/krohn/LinguagemC/GLFW_Shaders6/vendor/stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1603045934 source:/home/krohn/LinguagemC/GLFW_Shaders6/vendor/stb_image.cpp
+	"stb_image.h"
+
+1603087556 source:c:\users\alexa\documents\projetosc\glfw_shaders6\opengl_utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1501501581 c:\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1579479197 c:\glfw-3.3.2.bin.win64\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1603056734 source:c:\users\alexa\documents\projetosc\glfw_shaders6\vendor\stb_image.cpp
+	"stb_image.h"
+
+1603056662 c:\users\alexa\documents\projetosc\glfw_shaders6\vendor\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1603087556 source:d:\wscodeblocks\computacaografica\glfw_shaders6\opengl_utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1603056734 source:d:\wscodeblocks\computacaografica\glfw_shaders6\vendor\stb_image.cpp
+	"stb_image.h"
+
+1603056662 d:\wscodeblocks\computacaografica\glfw_shaders6\vendor\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1603414007 source:d:\wscodeblocks\computacaografica\glfw_shaders6\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<sstream>
+	"opengl_utils.cpp"
+	"vendor/stb_image.h"
+
+1603087556 d:\wscodeblocks\computacaografica\glfw_shaders6\opengl_utils.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+
